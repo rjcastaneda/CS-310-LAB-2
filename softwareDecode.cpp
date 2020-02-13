@@ -1,6 +1,4 @@
 /*
- * Roswell James Castaneda
- * 820249749
  * CS 310
  * Project 2: Software Decode
  * softwareDecode.cpp
